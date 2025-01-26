@@ -1,3 +1,3 @@
 #### Run
 
-For training, run the ‘‘‘VGAE_CFD.py‘‘‘
+For training, run the ```VGAE_CFD.py```
